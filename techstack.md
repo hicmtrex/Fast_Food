@@ -28,7 +28,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [hicmtrex/Fast_Food](https://github.com/hicmtrex/Fast_Food)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|10<br/>Tools used|12/21/23 <br/>Report generated|
+|10<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
